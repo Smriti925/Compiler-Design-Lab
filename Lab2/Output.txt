@@ -1,0 +1,55 @@
+This is Pre-processor directive: #include <bits/stdc++.h>
+
+This is Identifier: using
+
+This is Identifier: namespace
+
+This is Identifier: std
+
+This is Delimiter: ;
+
+This is Keyword: int
+
+This is Function: main(
+
+This is Delimiter: )
+
+This is Delimiter: {
+
+This is Keyword: int
+
+This is Identifier: a
+
+This is Assignment Operator: =
+
+This is Integer: 10
+
+This is Delimiter: ;
+
+This is Identifier: cout
+
+This is Relational Operator: <
+
+This is Relational Operator: <
+
+This is Identifier: a
+
+This is Relational Operator: <
+
+This is Relational Operator: <
+
+This is Identifier: endl
+
+This is Delimiter: ;
+
+This is Keyword: return
+
+This is Integer: 0
+
+This is Delimiter: ;
+
+This is Delimiter: }
+
+
+
+ Total Tokens = 26
