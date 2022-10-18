@@ -20,7 +20,6 @@ ArithmeticExpression: E{
 		printf("\nResult=%d\n", $$);
 
 		return 0;
-
 		};
 E:E'+'E {$$=$1+$3;}
 
